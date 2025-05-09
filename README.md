@@ -8,7 +8,7 @@ All projects were coded based on the textbook: **Programming Language Pragmatics
 
 | #  | Topic                            | Description |
 |----|----------------------------------|-------------|
-| 1  | PascalJunior Interpreter         | Built an interpreter in C for PJ (Pascal Junior) to evaluate integer expressions, logical ops, I/O, and assignments using a symbol table and parser actions |
+| 1  | [PascalJunior Interpreter](1.%20PascalJunior%20Interpreter)         | Built an interpreter in C for PJ (Pascal Junior) to evaluate integer expressions, logical ops, I/O, and assignments using a symbol table and parser actions |
 | 2  | Assembly Generation – Expressions | Generated x86-64 assembly from PJ programs with integer/string I/O, arithmetic, logic, and assignments |
 | 3  | Arrays, Conditionals, Iteration  | Extended the compiler to support 1D/2D arrays, if-else logic, and while loops with array arithmetic |
 | 4  | Functions & Calls                | Added support for user-defined functions, local/global variable management, and call stack handling in x86-64 |
